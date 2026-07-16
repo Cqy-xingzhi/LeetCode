@@ -1,0 +1,11 @@
+Original thought:
+"I have many words. I need to compare them to find similarities."
+Optimal thought:
+"I need to design a signature. Similar things should produce the same signature."
+
+finding duplicates
+caching
+databases
+hashing
+search engines
+recommendation systems
