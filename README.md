@@ -6,11 +6,11 @@
 
 ```
 LeetCode/
-├── 0001-two-sum/
-│   ├── solution.py
-│   └── README.md
-├── 0009-palindrome-number/
-│   └── ...
+├── 20260716 Group Anagrams/
+│   ├── Group Anagrams.py
+│   └── notes.txt
+├── 20260717 Longest Consecutive Sequence/
+│   └── Longest Consecutive Sequence.py
 └── ...
 ```
 
@@ -18,6 +18,8 @@ LeetCode/
 
 | # | Title | Difficulty | Date | Code |
 |---|-------|:----------:|:----:|:----:|
+| 49 | Group Anagrams | Medium | 2026-07-16 | [Python](./20260716%20Group%20Anagrams/Group%20Anagrams.py) |
+| 128 | Longest Consecutive Sequence | Medium | 2026-07-17 | [Python](./20260717%20Longest%20Consecutive%20Sequence/Longest%20Consecutive%20Sequence.py) |
 
 ## 🎯 Goal
 
